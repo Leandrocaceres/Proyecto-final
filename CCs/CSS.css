@@ -1,0 +1,74 @@
+h1{
+text-align: center;
+}
+.datos_personales{
+    display: flex;
+    margin: 1px;
+    height: 25px;
+    font-family: cursive;
+}
+.campos_a_completar{
+   
+    margin-top: 1px;
+    height: 25px;    
+}
+h4 {
+    margin: 1px;
+    border-bottom: solid 4px rgb(145, 33, 126);
+    font-family: cursive;
+}
+.Titulo_de_datos{
+       height: 8px;
+}
+h5 {
+    margin: 1px;
+    font-family: cursive;
+    width: 10%;
+}
+li {
+    list-style: none;
+
+	padding-left: 2rem;
+	background-image: url(http://joseramonbernabeu.com/wp-content/uploads/2020/12/020-maintenance.svg);
+	background-position: 0 50%;
+	background-size: 1.3rem 1.3rem;
+	background-repeat: no-repeat;
+}
+
+h2{
+    text-align: center;
+}
+.cuadrado{
+    width: 170px;
+    height: 170px;
+    background-color: rgb(228, 214, 24);
+    position: absolute;
+    left: 75%;
+    top: 10%;
+    border :solid 4px coral; 
+    text-align: center;
+}
+.Curriculum{
+width: 60%;
+margin-top: 15%;
+text-align: center;
+}
+.datoex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+  
+    
+}
+div.datos_extra{
+    border :solid 4px rgb(231, 169, 36); 
+    margin-right: 7%;
+}
+
+.boton{
+    display: none;
+}
+
+.show{
+    display: block;
+}
